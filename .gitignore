@@ -1,10 +1,11 @@
 
 .DS_Store
-
+.sketch
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+.html
 
 # C extensions
 *.so
