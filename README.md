@@ -3,7 +3,7 @@
 Geospatial Coding &amp; Visualization projects using [Kepler.gl](https://kepler.gl), Uber's open source geospatial analysis tool for large-scale data sets. Each project has a corresponding Jupyter Notebook and Interactive Map.
 
 ## Earthquakes
-Visualization of earthquakes worldwide based off of [USGS.gov] (https://earthquake.usgs.gov/)data mashed with San Francisco Seismic Hazard Zones from [https://data.sfgov.org](data.sfgov.org).
+Visualization of earthquakes worldwide based off of [USGS.gov](https://earthquake.usgs.gov) data mashed with San Francisco Seismic Hazard Zones from [https://data.sfgov.org](data.sfgov.org).
 
 
 
@@ -25,7 +25,7 @@ Visualization of earthquakes worldwide based off of [USGS.gov] (https://earthqua
 
 
 ## Building Foorprint in San Francisco
-3d Visualization of buildings in San Francisco based off of [Building Footprints-Geographic Locations And Boundaries] (https://data.sfgov.org/Geographic-Locations-and-Boundaries/Building-Footprints/ynuv-fyni).
+3d Visualization of buildings in San Francisco based off of [Building Footprints-Geographic Locations And Boundaries](https://data.sfgov.org/Geographic-Locations-and-Boundaries/Building-Footprints/ynuv-fyni).
 
 
 
